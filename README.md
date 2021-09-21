@@ -1,4 +1,4 @@
-# MySQL practice queries on Adventure works 2005 database
+# MySQL queries on Adventure works 2005 database
 
 ![AdvWorksOLTPSchemaVisio](https://user-images.githubusercontent.com/47832124/133079946-0649136d-8c02-4301-80e9-8d0ce2e20215.png)
 
