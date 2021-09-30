@@ -97,7 +97,7 @@ select Promostatus, sum(ordergain) as Gain, sum(freightloss) as loss, (sum(order
 
 <hr style="border:2px solid gray"> </hr>
 
-<!--
+
 #### Question 3:
 
 Ten million dollars of revenue is a common benchmark for Adventure Works. For each fiscal year (2007 and 2008), find the first dates when the cumulative running revenue total hit $10 million.
@@ -153,13 +153,7 @@ end$$<br/>
 
 select * from 2002_result union select * from 2003_result;<br/>
 
-**Sample output:** 
-
-<img width="609" alt="Screenshot 2021-09-13 at 5 52 41 PM" src="https://user-images.githubusercontent.com/47832124/133082670-0cafb13b-397e-4dbf-aeb2-07f2101d767d.png">
-
 <hr style="border:2px solid gray"> </hr>
-
--->
 
 #### Question 4:
 
